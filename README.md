@@ -1,0 +1,12 @@
+# METODOS-BUSQUEDA
+Programa para la materia de IA que integra los algoritmos (BFS, DFS, Dijktra, A* y Branch&amp;Bound) para hacer una búsqueda dentro del ITCG, dependiendo del método de búsqueda seleccionado.
+
+![](https://lh3.googleusercontent.com/pw/AJFCJaUtcJ61MZD2Ba3qZrqtj8I_qFi88uoUNfUTEEd0SPwK8VH_IqWfqpS2feHyn6P8WG7PQRc1wPqEx0UORWQLxMRYr7v0NGyIERhL10cM3EY7xw6Dd4oTg8my_IDCgjN7ogey3jTVyyujOP2D8hbvt5MM-h1nmVBRXsYzajMRZ7qP_NAm68a6WQNxs3a1NmC8LEgeDXKUECQk5CgbL3jkpe6cLP-y56kGWp-k7CE4eUIxhoEFsoV_UI2BgxLdcJ0Z0on0fB3yMn33JR4KLvn8emkI4HyxaiNSwag8nS29kAz0EE03zLe5B4poDxa_Er9YwlxvMOiEWq6_AJkLLmMbw9JNFSAnlf7YKU7Ivp9HKAwoH_w9QpdzqEufevyHuBVhw33O0ibMm6DyAalx_6YmIJRpyE57GL8la767V5kCgHFnYMgV9yJHNMuy4NpJdjhym1seKB9bHr2GnYcfgSvcts0tRSaoe7smArJplWswu2dOTOZ7_44mIlwbKeHB9psiIrIPyGpKs-dQNDmO0wsQiIciFqZ_NQafjXxi9QhZ8eBK5MEeiWilDdYXzgoiHHWBFQhpI53F87TbkgYesx8d5jJ7pUxX3IHXTSSQPQJef7m4Yk_z8XZg95vGix2sciSSFHsq6x_YVXBD75lP5Wj1qrkVgeJeG1NhmSEy_5zy74EE1_QmQR2DpfiA8dwv-tqZoqUIUI_Mp8CeuMOtEqlrqlXErFZ_ccXVybPnamtXgojhQN4Zf3mAyuWkU_3TYKUQQo9MtVvNS-pFWtWZW_7lrKQSPqchBouEBSgCAV6xxkPjIlbfb3_pl0Ff7Sg5ZAduYQiQE4dF5_sDna0FrYMIQzfDG195mTY3NkuWrKHaQSDD3tg8h9U72CWPK7gA6P25OHe-Sy8rCO13-bcxK875W3Be8-0=w1350-h679-s-no?authuser=0)
+
+Contribución
+------------
+1. Crea un Fork del repositorio
+2. Clonar en tu maquina mediante git clone 
+3. Crear una nueva rama
+4. Realiza tus cambios
+5. Manda tu pull request
